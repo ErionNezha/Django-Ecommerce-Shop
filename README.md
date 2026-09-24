@@ -1,7 +1,7 @@
 <!-- Created by Erion Nezha — © 2026 All rights reserved -->
 # Django E-Commerce Shop
 
-Dyqan online komplet në Django + React (ProShop) — produkte, shportë, porosi, pagesa dhe panel admini.
+Dyqan online komplet në Django + React (Erion Nezha) — produkte, shportë, porosi, pagesa dhe panel admini.
 
 `Python` `Django` `React`
 
